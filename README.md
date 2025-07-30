@@ -103,3 +103,148 @@ Mytel/
 │
 ├── README.md                         # Project documentation
 ============================================================================================
+
+Output :
+.....Welcome to Mytel.....
+--------------------------
+  1. Mobile Recharge
+  2. Pay Bills
+  3. Convert prepaid to postpaid / postpaid to prepaid
+  4. Know the balance
+  5. Profile Details
+  6. Exit
+--------------------------
+Select the service...
+5
+.....Profile Details.....
+-------------------------
+Enter your Name :
+Ramkumar.R
+Enter Mobile Number :
+9025234949
+Enter your Address :
+India
+Enter SIM type :
+prepaid
+.....Welcome to Mytel.....
+--------------------------
+  1. Mobile Recharge
+  2. Pay Bills
+  3. Convert prepaid to postpaid / postpaid to prepaid
+  4. Know the balance
+  5. Profile Details
+  6. Exit
+--------------------------
+Select the service...
+1
+Enter Mobile Number :
+9025234949
+.....Available Packages.....
+Package 1
+   Amount      : ₹200
+   Validity    : 28 days
+   Data/Day    : 1 GB
+Package 2
+   Amount      : ₹300
+   Validity    : 30 days
+   Data/Day    : 2 GB
+Enter the appropriate package number to proceed further...
+2
+Enter Payment Details....
+Enter debit card/credit card number :
+415300005555
+Enter Expiry date(dd-MM-yyyy)::
+30-08-2025
+Enter CVV number:
+4949
+Congratulations your Recharge(Package 2) is Successfull...
+--- Recharge Summary ---
+Username: Ramkumar.R
+Mobile No: 9025234949
+Recharge Amount: ₹300
+Validity: 30 days
+Data/day: 2GB
+------------------------
+.....Welcome to Mytel.....
+--------------------------
+  1. Mobile Recharge
+  2. Pay Bills
+  3. Convert prepaid to postpaid / postpaid to prepaid
+  4. Know the balance
+  5. Profile Details
+  6. Exit
+--------------------------
+Select the service...
+4
+Enter Mobile Number : 
+9025234949
+....Balance...
+SMS : 7
+Talk Time : unlimited
+Data : 526MB
+.....Welcome to Mytel.....
+--------------------------
+  1. Mobile Recharge
+  2. Pay Bills
+  3. Convert prepaid to postpaid / postpaid to prepaid
+  4. Know the balance
+  5. Profile Details
+  6. Exit
+--------------------------
+Select the service...
+3
+Enter the Mobile Number :
+9025234949
+a. Prepaid to Postpaid
+b. Postpaid to Prepaid
+choose the service you want..(a or b)?
+a
+Congrats!!your request is received. You new SIM will be delivered within 2 days to your address 
+--- SIM Conversion Summary ---
+Username: Ramkumar.R
+Mobile No: 9025234949
+New SIM Type: postpaid
+Delivery Address: India
+------------------------------
+.....Welcome to Mytel.....
+--------------------------
+  1. Mobile Recharge
+  2. Pay Bills
+  3. Convert prepaid to postpaid / postpaid to prepaid
+  4. Know the balance
+  5. Profile Details
+  6. Exit
+--------------------------
+Select the service...
+2
+Enter Post paid number:
+9025234949
+Bill due amount is 1940 INR
+Enter Payment Details....
+Enter debit card/credit card number :
+415300005555
+Enter Expiry date(dd-MM-yyyy)::
+30-08-2025
+Enter CVV number:
+4949
+Congratulations..your bill amount is paid successful..
+--- Bill Payment Summary ---
+Username: Ramkumar.R
+Mobile No: 9025234949
+Amount Paid: ₹1940
+Card Used: 415300005555
+Transaction Date: 30-08-2025
+----------------------------
+.....Welcome to Mytel.....
+--------------------------
+  1. Mobile Recharge
+  2. Pay Bills
+  3. Convert prepaid to postpaid / postpaid to prepaid
+  4. Know the balance
+  5. Profile Details
+  6. Exit
+--------------------------
+Select the service...
+6
+Exit Successfully
+
