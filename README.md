@@ -2,7 +2,7 @@
 
   Welcome to Mytel, a console-based telecom service simulator built in Java. This application mimics a real-world mobile service provider, offering prepaid and postpaid functionalities through a modular and object-oriented design.
 
-============================================================================================================================= 
+==================================================================================
 Requirements :
           Mytel application: 
   Welcome to Mytel  : 
@@ -57,7 +57,7 @@ Enter the appropriate package number to proceed further
     Enter mobile number: 8765432567 
     Name:rahul 
     Address: Ameerpet, Hyderabad
-============================================================================================================================= 
+==================================================================================
 Features
   - Mobile Recharge (Prepaid users only)
   - Bill Payment (Postpaid users only)
@@ -65,8 +65,7 @@ Features
   - Balance Inquiry
   - Profile Registration
   - Interactive Menu
-
-============================================================================================================================= 
+==================================================================================
 
 Recharge Packages
 
@@ -75,15 +74,14 @@ Recharge Packages
 | Package 1  | ₹200         | 28               | 1 GB     |
 | Package 2  | ₹300         | 30               | 2 GB     |
 
-============================================================================================================================= 
-
+==================================================================================
  Tech Stack
   - Language: Java
   - Architecture: Modular OOP
   - Core Concepts: Classes, inheritance, ArrayList, conditional logic, encapsulation
   - User Interaction: Java Scanner
   - Enivironment : Eclipse IDE
-============================================================================================================================= 
+==================================================================================
 Project Structure
 Mytel/
 ├── main/
@@ -104,4 +102,4 @@ Mytel/
 │   └── PackageConstants.java         # Recharge package definitions
 │
 ├── README.md                         # Project documentation
-============================================================================================================================= 
+====================================================================================
